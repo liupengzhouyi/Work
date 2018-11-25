@@ -1,0 +1,42 @@
+h2
+{
+    color: #003580;
+}
+
+#p_text
+{
+    font-size: 14px;
+    color: #000033;
+}
+
+.p_01
+{
+    color: #FF0000;
+}
+
+.p_02
+{
+    color: #1F87CC;
+}
+
+.p_03
+{
+    color: #FAA53B;
+}
+
+.p_04
+{
+    color: #0D7114;
+}
+
+.img_01
+{
+    width: 100px;
+    height: 160px;
+}
+
+.img_02
+{
+    width: 200px;
+    height: 130px;
+}
