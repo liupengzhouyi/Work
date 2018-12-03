@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    text-shadow:0.1em 0.1em 0.3em #333333;
+}
+h2{
+    text-align: center;
+    color: gray;
+}
+h3{
+    text-align: center;
+}
+span{
+    color: red;
+}
+#a1{
+    font-style:italic;
+}
+
+div
+{
+    align: center;
+}
+
+p
+{
+    text-indent: 2em;
+}
