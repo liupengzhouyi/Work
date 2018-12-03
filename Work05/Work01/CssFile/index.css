@@ -1,0 +1,17 @@
+#p_text {
+    font-size: 18px;
+    font-family: "Kaiti SC";
+    font-weight: bold;
+}
+
+p
+{
+    font-size: 12px;
+    line-height: 20px;
+    font-family: "Times New Roman";
+}
+
+a
+{
+    color: #FF0000;
+}
