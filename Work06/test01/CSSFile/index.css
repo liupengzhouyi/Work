@@ -1,0 +1,33 @@
+body
+{
+    background-color: #feffd7;
+}
+
+li {
+    list-style-type: none;
+}
+
+.canSee
+{
+    display: none;
+}
+
+.aaa
+{
+
+}
+
+.aaa:hover .canSee
+{
+    display: inline-block;
+}
+
+.backgrbA
+{
+
+}
+
+.backgrbB
+{
+
+}
