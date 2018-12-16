@@ -1,0 +1,30 @@
+*{margin: 0;padding: 0;}
+li{list-style: none;}
+#content{
+    border: solid 1px;
+    width: 331px;
+    padding: 5px;
+    border-radius: 6px;
+    font-size: 12px;
+    line-height: 25px;
+}
+#content ul {
+    position:relative;
+}
+.tipBg,.tipText {
+    position:absolute;
+    width:331px;
+    height:25px;
+    top:100px;
+}
+.tipText {
+    color:#FFF;
+    text-align:center;
+    z-index:1;
+    padding-bottom: 0px;
+}
+.tipBg {
+    background:#000;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+}
