@@ -1,0 +1,215 @@
+body
+{
+background: #a9a9a9;
+
+}
+
+ul,li
+{
+padding: 0;
+margin: 0;
+list-style: none;
+
+}
+
+h1,p
+{
+margin: 0;
+
+}
+
+.whole
+{
+width: 870px;
+height: 700px;
+margin: 0 auto;
+
+}
+
+.header
+{
+width: 870px;
+
+}
+
+#topLogo
+{
+height: 82px;
+
+}
+
+#menu
+{
+height: 30px;
+
+}
+
+#menu li 
+{
+ float:left;
+list-style-type: none;
+height: 30px;
+background: #000;
+
+}
+
+#menu li a, #menu li a:hover
+{
+line-height: 30px;
+display:inline-block;
+padding:0px 22px;
+text-decoration: none;
+color: #fff;
+
+}
+
+#menu li a
+{
+background:url(../ImageFile/forumMenuBg.gif) top right no-repeat;
+
+}
+
+#menu li a:hover
+{
+background:url(../ImageFile/forumMenuBg.jpg) repeat-x;
+
+}
+
+.mid-l
+{
+float: left;
+margin: 6px;
+
+}
+
+.videoSame
+{
+width: 320px;
+background: #dcdcdc;
+float: right;
+margin-top: 6px;
+margin-left: 6px;
+margin-bottom: 6px;
+
+}
+
+.videoTitle
+{
+height: 30px;
+width: auto;
+padding-left: 20px;
+background: #344bb7;
+line-height: 30px;
+color: #fff;
+font-weight: bold;
+
+}
+
+.videosList
+{
+padding-left: 10px;
+display: block;
+height:318px;
+
+}
+
+.videosList
+{
+width: 296px;
+margin:  0 auto;
+
+}
+
+.videosList li 
+{
+float:left;
+width:142px;
+
+}
+
+.videosList li h1
+{
+font-size: 14px;
+margin-left: 14px;
+
+}
+
+.videosList a
+{
+display: block;
+margin: 6px 0 0 6px;
+
+}
+
+.videosList li p,span
+{
+font-size: 14px;
+
+}
+
+.videosList li a img 
+{
+border:2px #ffffff solid;
+
+}
+
+.videosList li a:hover img 
+{
+border:2px #f08609 solid;
+
+}
+
+.videosList p
+{
+background: url(../ImageFile/icon-01.jpg) 10px 5px no-repeat;
+padding-left: 30px;
+
+}
+
+.videosList span
+{
+background:url(../ImageFile/icon-02.jpg) 10px 5px no-repeat;
+padding-left:30px;
+height:25px;
+line-height:25px;
+display:block;
+
+}
+
+.mid-l .mid-l-p
+{
+background: url(../ImageFile/icon-01.jpg) 10px 5px no-repeat;
+padding-left: 30px;
+display:block;
+width: 100px;
+float: left;
+margin-top: 6px;
+
+}
+
+.mid-l .mid-l-span
+{
+background:url(../ImageFile/icon-02.jpg) 10px 5px no-repeat;
+padding-left:30px;
+height:25px;
+line-height:25px;
+display:block;
+float: left;
+margin-top: 6px;
+
+}
+
+.mid
+{
+border-bottom: solid 1px;
+height: 354px;
+
+}
+
+.footer p
+{
+font-size: 14px;
+text-align: center;
+clear: both;
+
+}
